@@ -1,0 +1,29 @@
+.client,
+.developer {
+    color: lavender;
+    font-family: 'Open Sans Condensed', sans-serif;
+}
+
+.client {
+    text-align: center;
+    padding: 25px 20px;
+}
+
+.client p, 
+.info-client {
+    font-weight: bold;
+}
+
+.info-client {
+    color: #f3a2b1;
+    font-style: italic;
+    margin-right: 2px;
+}
+
+.developer {
+    background: #111;
+    display: flex;
+    font-weight: 600;
+    justify-content: space-around;
+    padding: 25px 10px;
+}
