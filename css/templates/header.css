@@ -38,7 +38,7 @@ nav {
         }
     }
     /* Line of bellow page name */
-    .page-active {
+    .page-active, .page-current {
         background: pink;
         height: 3px;
         width: 70%;
@@ -48,5 +48,16 @@ nav {
     a:hover .page-active {
         width: 100%;
         transition: .5s;
+        -webkit-animation: line-up 1s;
+        -moz-animation: line-up 1s;
+        animation: line-up 1s;
+    }
+    @keyframes line-up {
+        from {
+            width: 70%;
+        }
+        to {
+            width: 100%;
+        }
     }
 }
