@@ -3,6 +3,18 @@
     background-image: url("../img/material/batons.jpg");
 }
 
+#about {
+    background-image: url("../img/professional/fran.jpg");
+}
+
+#service {
+    background-image: url("../img/material/cinto-pinceis.jpg");
+}
+
+h2 {
+    font-weight: bold;
+}
+
 .parallax {
     /* Set a specific height */
     height: 750px;
@@ -48,8 +60,10 @@
     }
 }
 
-#about {
-    background-image: url("../img/professional/fran.jpg");
+@media only screen and (min-width: 1200px) {
+    h2 {
+        font-size: 3em;
+    }
 }
 
 .dot {
@@ -59,4 +73,5 @@
 
 .content {
     font-family: 'Open Sans Condensed', sans-serif;
+    font-weight: bold;
 }
