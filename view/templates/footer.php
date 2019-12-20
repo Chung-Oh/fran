@@ -12,7 +12,7 @@
         var windowWidth = window.innerWidth;
 
         window.onscroll = function() {
-            (windowWidth >= 1200) ? scrollFunction(30, 150) : scrollFunction(30, 52);
+            (windowWidth >= 1200) ? scrollFunction(30, 80) : scrollFunction(30, 52);
         };
 
         var glow = document.querySelector('.glow');
@@ -50,10 +50,10 @@
                 case '/':
                     currentPage(0);
                     break;
-                case '/view/service.php':
+                case '/view/about.php':
                     currentPage(1);
                     break;
-                case '/view/about.php':
+                case '/view/service.php':
                     currentPage(2);
                     break;
                 case '/view/jobs.php':

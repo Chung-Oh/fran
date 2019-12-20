@@ -12,6 +12,7 @@
     <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Barlow+Condensed|Nunito|Open+Sans+Condensed:300|Playfair+Display|Sniglet|Ubuntu&display=swap">
     <!-- CSS -->
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
+    <link rel="stylesheet" href="../css/index.css">
     <link rel="stylesheet" href="../css/templates/header.css">
     <link rel="stylesheet" href="../css/templates/footer.css">
 </head>

@@ -23,7 +23,7 @@ nav {
 
 @media only screen and (min-width: 1200px) {
     .glow-lg {
-        font-size: 150px;
+        font-size: 80px;
         transition: 1.5s;
         -webkit-animation: glow-lg 1s ease-in-out infinite alternate;
         -moz-animation: glow-lg 1s ease-in-out infinite alternate;

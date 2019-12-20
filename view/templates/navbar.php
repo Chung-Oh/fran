@@ -8,8 +8,8 @@
         <div class="collapse navbar-collapse justify-content-end" id="navbarNavAltMarkup">
             <div class="navbar-nav">
                 <a class="nav-item nav-link" href="/">Home<div class="page"></div></a>
-                <a class="nav-item nav-link" href="../view/service.php">Serviços<div class="page"></div></a>
                 <a class="nav-item nav-link" href="../view/about.php">Quem sou<div class="page"></div></a>
+                <a class="nav-item nav-link" href="../view/service.php">Serviços<div class="page"></div></a>
                 <a class="nav-item nav-link" href="../view/jobs.php">Portfólio<div class="page"></div></a>
                 <a class="nav-item nav-link" href="../view/contact.php">Contato<div class="page"></div></a>
             </div>
