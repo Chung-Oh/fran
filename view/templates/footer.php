@@ -1,6 +1,6 @@
     <footer class="bg-dark">
         <section class="client">
-            <p class="mb-0">&copy 2019 <span class="info-client">Francielly Rodrigues</span> - <span class="info-client">FranBeauty</span></p>
+            <p class="mb-0">&copy <?php echo date('Y') ?> <span class="info-client">Francielly Rodrigues</span> - <span class="info-client">FranBeauty</span></p>
         </section>
         <section class="developer">
             <p class="mb-0">Desenvolvido por Daniel Chung</p>
@@ -50,10 +50,10 @@
                 case '/':
                     currentPage(0);
                     break;
-                case '/view/about.php':
+                case '/view/service.php':
                     currentPage(1);
                     break;
-                case '/view/service.php':
+                case '/view/about.php':
                     currentPage(2);
                     break;
                 case '/view/jobs.php':

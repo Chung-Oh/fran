@@ -1,17 +1,17 @@
 #home {
-    /* The image used */
     background-image: url("../img/material/batons.jpg");
-}
-
-#about {
-    background-image: url("../img/professional/fran.jpg");
 }
 
 #service {
     background-image: url("../img/material/cinto-pinceis.jpg");
 }
 
-h2 {
+#about {
+    background-image: url("../img/professional/fran.jpg");
+}
+
+.name-section {
+    font-size: 3em;
     font-weight: bold;
 }
 
@@ -69,6 +69,29 @@ h2 {
 .dot {
     color: #c80ca9;
     font-size: 100px;
+}
+
+.line {
+    background: pink;
+    height: 4%;
+    margin: .7em auto;
+    width: 15%;
+}
+
+.schedule {
+    border: 1px solid #c80ca9;
+    border-radius: 5px;
+    color: #c80ca9;
+    font-size: 25px;
+    font-style: italic;
+    padding: .5em;
+    transition: .7s;
+}
+
+.schedule:hover {
+    color: lavender;
+    background-color: #c80ca9;
+    text-decoration: none;
 }
 
 .content {
