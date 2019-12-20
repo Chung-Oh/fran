@@ -10,7 +10,7 @@
         <div class="py-3 col-xl-4 col-lg-4 col-md-4">
             <h6 class="h4 pt-2">Debutante</h6>
             <div class="line"></div>
-            <p class="content font-italic pb-2">Colocar aqui sobre serviços para debutante.</p>
+            <p class="content font-italic pb-2">Colocar aqui sobre serviços para debutantes.</p>
         </div>
         <div class="py-3 col-xl-4 col-lg-4 col-md-4">
             <h6 class="h4 pt-2">Festas</h6>
@@ -19,6 +19,6 @@
         </div>
     </div>
     <div class="container text-center py-5 mb-5">
-        <a class="schedule" href="#">Agende já.</a>
+        <a class="btn-page" href="#">Agende já.</a>
     </div>
 </section>

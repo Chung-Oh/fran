@@ -11,7 +11,7 @@ function scrollSmooth(selector) {
         run(target);
         setTimeout(function() {
             run(target);
-        }, 600);
+        }, 700);
     });
 }
 

@@ -2,6 +2,24 @@
     <div id="contactImg" class="parallax"></div>
     <div class="container">
         <h2 id="contact" class="name-section text-center py-3">Contato <span class="dot">.</span></h2>
-        <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p>
+        <div class="my-contacts row py-2">
+            <p class="content-contact d-flex justify-content-center col-xl-6 col-lg-6 col-md-12 col-12">
+                <i class="icon-contact fas fa-envelope-square mr-2"></i>
+                <span class="d-flex align-items-center">franbeauty@gmail.com</span>
+            </p>
+            <p class="content-contact d-flex justify-content-center col-xl-6 col-lg-6 col-md-12 col-12">
+                <i class="icon-contact fab fa-whatsapp-square mr-2"></i>
+                <span class="d-flex align-items-center">(11) 95971-4474</span>
+            </p>
+        </div>
+    </div>
+    <div class="text-center py-5">
+        <h3>Siga-me:</h3>
+        <div class="container py-3">
+            <a class="mr-2" href="#" target="blank"><i class="icon-follow fab fa-twitter-square"></i></a>
+            <a class="mr-2" href="#" target="blank"><i class="icon-follow fab fa-facebook-square"></i></a>
+            <a class="mr-2" href="#" target="blank"><i class="icon-follow fab fa-instagram"></i></a>
+            <a class="mr-2" href="https://www.linkedin.com/in/francielly-rodrigues-8b338518a/" target="blank"><i class="icon-follow fab fa-linkedin"></i></a>
+        </div>
     </div>
 </section>
