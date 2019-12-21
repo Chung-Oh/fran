@@ -5,17 +5,17 @@
         <div class="py-3 col-xl-4 col-lg-4 col-md-4">
             <h6 class="h4 pt-2">Casamento</h6>
             <div class="line"></div>
-            <p class="content font-italic pb-2">Colocar aqui sobre serviços para casamentos.</p>
+            <p class="content font-italic pb-2">Colocar aqui sobre serviços para casamentos. Colocar aqui sobre serviços para casamentos. Colocar aqui sobre serviços para casamentos. </p>
         </div>
         <div class="py-3 col-xl-4 col-lg-4 col-md-4">
             <h6 class="h4 pt-2">Debutante</h6>
             <div class="line"></div>
-            <p class="content font-italic pb-2">Colocar aqui sobre serviços para debutantes.</p>
+            <p class="content font-italic pb-2">Colocar aqui sobre serviços para debutantes. Colocar aqui sobre serviços para debutantes. Colocar aqui sobre serviços para debutantes. </p>
         </div>
         <div class="py-3 col-xl-4 col-lg-4 col-md-4">
             <h6 class="h4 pt-2">Festas</h6>
             <div class="line"></div>
-            <p class="content font-italic pb-2">Colocar aqui sobre serviços para festas.</p>
+            <p class="content font-italic pb-2">Colocar aqui sobre serviços para festas. Colocar aqui sobre serviços para festas. Colocar aqui sobre serviços para festas. </p>
         </div>
     </div>
     <div class="container text-center py-5 mb-5">

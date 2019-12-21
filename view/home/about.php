@@ -41,7 +41,7 @@
                 </div>
 
                 <div class="carousel-item">
-                    <img src="img/professional/francielly-rodrigues-6.jpeg" class="d-block w-100" alt="Profissional da Beleza Francielly Rodrigues foto 3.">
+                    <img src="img/professional/francielly-rodrigues-2.jpeg" class="d-block w-100" alt="Profissional da Beleza Francielly Rodrigues foto 3.">
                     <div class="carousel-caption d-none d-md-block">
                         <h5>Third slide label</h5>
                         <p>Praesent commodo cursus magna, vel scelerisque nisl consectetur.</p>
@@ -49,7 +49,7 @@
                 </div>
 
                 <div class="carousel-item">
-                    <img src="img/professional/francielly-rodrigues-7.jpeg" class="d-block w-100" alt="Profissional da Beleza Francielly Rodrigues foto 3.">
+                    <img src="img/professional/francielly-rodrigues-4.jpeg" class="d-block w-100" alt="Profissional da Beleza Francielly Rodrigues foto 3.">
                     <div class="carousel-caption d-none d-md-block">
                         <h5>Third slide label</h5>
                         <p>Praesent commodo cursus magna, vel scelerisque nisl consectetur.</p>
