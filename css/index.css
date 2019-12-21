@@ -38,6 +38,7 @@
     font-size: 10vw; /* Responsive font size */
     top: 50%; /* Position text in the middle */
     mix-blend-mode: screen; /* This makes the cutout text possible */
+    width: 70%;
 }
 
 .title-jumbo, .subtitle-jumbo {
@@ -49,14 +50,14 @@
     position: absolute; /* Position text */
     text-align: center; /* Center text */
     transform: translate(-50%, -50%); /* Position text in the middle */
-    width: 70%;
 }
 
 .subtitle-jumbo {
-    font-size: 5vw;
+    font-size: 6vw;
     text-align: center;
     position: absolute;
     top: 67%;
+    width: 85%;
 }
 
 @media only screen and (min-width: 700px) {
@@ -112,18 +113,23 @@
     height: 500px; 
 }
 
+.content-contact {
+    font-size: 20px;
+    margin-left: 20%;
+}
+
 @media only screen and (min-width: 1200px) {
     .my-contacts {
         margin-top: 5%;
     }
-}
-
-.content-contact {
-    font-size: 20px;
+    .content-contact {
+        margin-left: 0%;
+        padding-left: 20%;
+    }
 }
 
 .icon-contact, .icon-follow {
-    font-size: 3em;
+    font-size: 2em;
 }
 
 .icon-follow {

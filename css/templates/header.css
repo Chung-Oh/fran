@@ -3,7 +3,7 @@ nav {
 }
 
 .glow {
-    font-size: 52px;
+    font-size: 45px;
     color: #fff;
     text-align: center;
     -webkit-animation: glow 1s ease-in-out infinite alternate;

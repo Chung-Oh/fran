@@ -12,7 +12,7 @@
         var windowWidth = window.innerWidth;
 
         window.onscroll = function() {
-            (windowWidth >= 1200) ? scrollFunction(30, 80) : scrollFunction(30, 52);
+            (windowWidth >= 1200) ? scrollFunction(30, 80) : scrollFunction(30, 45);
         };
 
         var glow = document.querySelector('.glow');
