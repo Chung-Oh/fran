@@ -1,5 +1,5 @@
 <?php require_once 'view/templates/header.php' ?>
-<?php require_once 'view/templates/navbar.php' ?>
+<?php require_once 'view/templates/navbar-index.php' ?>
 
 <main>
     <?php require_once 'view/home/jumbotron.php' ?>
