@@ -3,11 +3,11 @@
     <div class="container">
         <h2 id="contact" class="name-section text-center py-3">Contato <span class="dot">.</span></h2>
         <div class="my-contacts row py-2">
-            <p class="content-contact d-flex align-items-center col-xl-6 col-lg-6 col-md-12 col-12">
+            <p class="content-contact d-flex align-items-center col-xl-6 col-lg-6 col-md-6 col-sm-6 col-10">
                 <i class="icon-contact fas fa-envelope-square mr-2"></i>
                 <span class="d-flex align-items-center">franbeauty@gmail.com</span>
             </p>
-            <p class="content-contact d-flex align-items-center col-xl-6 col-lg-6 col-md-12 col-12">
+            <p class="content-contact d-flex align-items-center col-xl-6 col-lg-6 col-md-6 col-sm-6 col-10">
                 <i class="icon-contact fab fa-whatsapp-square mr-2"></i>
                 <span class="d-flex align-items-center">(11) 95971-4474</span>
             </p>
