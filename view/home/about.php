@@ -69,6 +69,6 @@
 
     </div>
     <div class="container text-center pb-5 pt-2 mb-5">
-        <a class="btn-page" href="#">Saber mais sobre mim.</a>
+        <a class="btn-page" href="view/about.php">Saber mais sobre mim.</a>
     </div>
 </section>

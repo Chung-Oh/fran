@@ -31,5 +31,8 @@
         <!-- Modal Caption (Image Text) -->
         <div id="caption"></div>
     </div>
+    <div class="container text-center py-5 my-5">
+        <a class="btn-page" href="view/jobs.php">Para saber mais.</a>
+    </div>
 
 </section>

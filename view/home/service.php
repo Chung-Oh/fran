@@ -19,6 +19,6 @@
         </div>
     </div>
     <div class="container text-center py-5 mb-5">
-        <a class="btn-page" href="#">Agende já.</a>
+        <a class="btn-page" href="view/service.php">Agende já.</a>
     </div>
 </section>
