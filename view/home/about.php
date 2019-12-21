@@ -3,7 +3,7 @@
     <h2 id="about" class="name-section text-center py-3">Quem sou <span class="dot">.</span></h2>
     <div class="container row mx-auto py-3">
 
-        <div class="align-self-center col col-xl-6 my-3">
+        <div class="align-self-center col-xl-6 col-lg-6 col-md-6 col-sm-12 col-12 my-3">
             <p class="content">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum
                 has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley
                 of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also
@@ -19,7 +19,7 @@
         </div>
 
         <!-- CAROUSEL -->
-        <div id="carouselCaptions" class="carousel slide mt-3 mb-5 pb-3 col-xl-6" data-ride="carousel">
+        <div id="carouselCaptions" class="carousel slide mt-3 mb-5 pb-3 col-xl-6 col-lg-6 col-md-6 col-sm-12 col-12" data-ride="carousel">
             <ol class="carousel-indicators">
                 <li data-target="#carouselCaptions" data-slide-to="0" class="active"></li>
                 <li data-target="#carouselCaptions" data-slide-to="1"></li>

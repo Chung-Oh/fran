@@ -1,5 +1,10 @@
+#home {
+    height: 100vh;
+}
+
 #homeImg {
     background-image: url("../img/material/batons.jpg");
+    height: 100%;
 }
 
 #serviceImg {
@@ -127,6 +132,12 @@
     color: #c80ca9;
 }
 
+@media only screen and (max-height: 400px) {
+    .subtitle-jumbo {
+        top: 80%;
+    }
+}
+
 @media only screen and (min-width: 576px) {
     .content-contact {
         padding-left: 10%;
@@ -141,13 +152,19 @@
         font-size: 6vw;
     }
     .subtitle-jumbo {
-        font-size: 3vw;
+        font-size: 6vw;
     }
 }
 
 @media only screen and (min-width: 768px) {
     .content-contact {
         padding-left: 15%;
+    }
+}
+
+@media only screen and (min-width: 960px) {
+    .subtitle-jumbo {
+        font-size: 3vw;
     }
 }
 
