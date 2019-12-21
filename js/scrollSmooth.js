@@ -38,8 +38,12 @@ function run(arg) {
     }, time);
 }
 
-scrollSmooth('a[href*=home]');
-scrollSmooth('a[href*=about]');
-scrollSmooth('a[href*=service]');
-scrollSmooth('a[href*=jobs]');
-scrollSmooth('a[href*=contact]');
+var device = window.innerWidth;
+
+if (device >= 1000) {
+    scrollSmooth('a[href*=home]');
+    scrollSmooth('a[href*=about]');
+    scrollSmooth('a[href*=service]');
+    scrollSmooth('a[href*=jobs]');
+    scrollSmooth('a[href*=contact]');
+}

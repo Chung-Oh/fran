@@ -12,12 +12,12 @@
         var windowWidth = window.innerWidth;
 
         window.onscroll = function() {
-            (windowWidth >= 1200) ? scrollFunction(30, 80) : scrollFunction(30, 45);
+            (windowWidth >= 1200) ? renderTitleNavBar(30, 80) : renderTitleNavBar(20, 42);
         };
 
         var glow = document.querySelector('.glow');
 
-        function scrollFunction(min, max) {
+        function renderTitleNavBar(min, max) {
             if (document.body.scrollTop > 50 || document.documentElement.scrollTop > 50) {
                 glow.style.fontSize = min + 'px';
                 lightNameDesktop(false);

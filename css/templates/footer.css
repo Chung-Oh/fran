@@ -27,3 +27,9 @@
     justify-content: space-around;
     padding: 25px 10px;
 }
+
+@media only screen and (max-width: 400px) {
+    .developer p {
+        font-size: 13px;
+    }
+}
