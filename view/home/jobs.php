@@ -2,7 +2,7 @@
     <div id="jobsImg" class="parallax"></div>
     <h2 id="jobs" class="name-section text-center py-3">Portfólio <span class="dot">.</span></h2>
     <div class="container">
-        <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the
+        <p class="col-xl-10 col-lg-10 col-md-10 col-sm-10 col-10 m-auto">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the
             industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and
             scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into
             electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of
@@ -32,7 +32,7 @@
         <div id="caption"></div>
     </div>
     <div class="container text-center py-5 my-5">
-        <a class="btn-page" href="view/jobs.php">Para saber mais.</a>
+        <a class="btn-page" href="view/jobs.php">Quero saber mais.</a>
     </div>
 
 </section>

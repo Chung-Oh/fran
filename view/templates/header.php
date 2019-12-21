@@ -15,6 +15,7 @@
     <link rel="stylesheet" href="../css/index.css">
     <link rel="stylesheet" href="../css/templates/header.css">
     <link rel="stylesheet" href="../css/home/mosaic.css">
+    <link rel="stylesheet" href="../css/service/service.css">
     <link rel="stylesheet" href="../css/templates/footer.css">
 </head>
 <body>

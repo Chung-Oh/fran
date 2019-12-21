@@ -16,7 +16,6 @@
     <div class="text-center py-5">
         <h3>Siga-me:</h3>
         <div class="container py-3">
-            <a class="mr-2" href="#" target="blank"><i class="icon-follow fab fa-twitter-square"></i></a>
             <a class="mr-2" href="#" target="blank"><i class="icon-follow fab fa-facebook-square"></i></a>
             <a class="mr-2" href="#" target="blank"><i class="icon-follow fab fa-instagram"></i></a>
             <a class="mr-2" href="https://www.linkedin.com/in/francielly-rodrigues-8b338518a/" target="blank"><i class="icon-follow fab fa-linkedin"></i></a>

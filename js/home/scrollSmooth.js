@@ -38,12 +38,18 @@ function run(arg) {
     }, time);
 }
 
-var device = window.innerWidth;
-
-if (device >= 1000) {
-    scrollSmooth('a[href*=home]');
-    scrollSmooth('a[href*=about]');
-    scrollSmooth('a[href*=service]');
-    scrollSmooth('a[href*=jobs]');
-    scrollSmooth('a[href*=contact]');
+function activeScroll() {
+    var device = window.innerWidth;
+    var elements = ['a[href*=home]','a[href*=about]','a[href*=service]','a[href*=jobs]','a[href*=contact]'];
+    if (device >= 1000) {
+        elements.forEach(el => {
+            scrollSmooth(el);
+        });
+    }
 }
+
+function verifyPathScroll() {
+    window.location.pathname == '/' ? activeScroll() : null;
+}
+
+verifyPathScroll();

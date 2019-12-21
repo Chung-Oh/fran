@@ -9,6 +9,7 @@
 
 #serviceImg {
     background-image: url("../img/material/cinto-pinceis.jpg");
+    height: 100vh;
 }
 
 #aboutImg {
