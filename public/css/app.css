@@ -10444,11 +10444,6 @@ h3 {
   background-image: url("../img/material/diversos.jpg");
 }
 
-.name-section {
-  font-size: 3em;
-  font-weight: bold;
-}
-
 .parallax {
   /* Set a specific height */
   height: 750px;
@@ -10516,6 +10511,15 @@ h3 {
     left: 50%;
   }
 }
+.name-section {
+  font-size: 3em;
+  font-weight: bold;
+}
+
+.service-type {
+  font-size: 22px;
+}
+
 .dot {
   color: #c80ca9;
   font-family: serif;
@@ -10544,6 +10548,10 @@ h3 {
   color: lavender;
   background-color: #c80ca9;
   text-decoration: none;
+}
+
+.content {
+  font-size: 16px;
 }
 
 .content, .content-contact {
