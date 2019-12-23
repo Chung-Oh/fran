@@ -10418,30 +10418,12 @@ h3 {
     border-color: #dee2e6;
   }
 }
-#home {
-  height: 100vh;
+html {
+  scroll-behavior: smooth;
 }
 
-#homeImg {
-  background-image: url("../img/material/batons.jpg");
-  height: 100%;
-}
-
-#servicesImg {
-  background-image: url("../img/material/cinto-pinceis.jpg");
-  height: 100vh;
-}
-
-#aboutImg {
-  background-image: url("../img/professional/francielly-rodrigues-10.jpg");
-}
-
-#jobsImg {
-  background-image: url("../img/jobs/design-personalizado-e-medicao-facial-com-paquimetro.jpeg");
-}
-
-#contactImg {
-  background-image: url("../img/material/diversos.jpg");
+body {
+  font-family: "Arial", "Helvetica", sans-serif;
 }
 
 .parallax {
@@ -10454,7 +10436,7 @@ h3 {
   background-size: cover;
 }
 
-.title-jumbo {
+.title-jumbo, .title-jumbo-secondary {
   background-color: white;
   font-size: 10vw;
   /* Responsive font size */
@@ -10465,7 +10447,7 @@ h3 {
   width: 70%;
 }
 
-.title-jumbo, .subtitle-jumbo {
+.title-jumbo, .subtitle-jumbo, .title-jumbo-secondary {
   color: black;
   font-weight: bold;
   left: 50%;
@@ -10511,90 +10493,9 @@ h3 {
     left: 50%;
   }
 }
-.name-section {
-  font-size: 3em;
-  font-weight: bold;
-}
-
-.service-type {
-  font-size: 22px;
-}
-
-.dot {
-  color: #c80ca9;
-  font-family: serif;
-  font-size: 100px;
-}
-
-.line {
-  background: pink;
-  height: 1%;
-  margin: 0.7em auto;
-  width: 15%;
-}
-
-.btn-page {
-  border: 1px solid #c80ca9;
-  border-radius: 5px;
-  color: #c80ca9;
-  font-size: 25px;
-  font-style: italic;
-  padding: 0.5em;
-  -webkit-transition: 0.7s;
-  transition: 0.7s;
-}
-
-.btn-page:hover {
-  color: lavender;
-  background-color: #c80ca9;
-  text-decoration: none;
-}
-
-.content {
-  font-size: 16px;
-}
-
-.content, .content-contact {
-  font-family: "Open Sans Condensed", sans-serif;
-  font-weight: bold;
-}
-
-.carousel-inner > .carousel-item > img {
-  min-width: 100%;
-  height: 500px;
-}
-
-.content-contact {
-  font-size: 20px;
-  padding-left: 25%;
-}
-
-.icon-contact, .icon-follow {
-  font-size: 2em;
-}
-
-.icon-follow {
-  color: #d559a5;
-  -webkit-transition: 0.5s;
-  transition: 0.5s;
-}
-
-.icon-follow:hover {
-  color: #c80ca9;
-}
-
 @media only screen and (max-height: 400px) {
   .subtitle-jumbo {
     top: 80%;
-  }
-}
-@media only screen and (min-width: 576px) {
-  .content-contact {
-    padding-left: 10%;
-  }
-
-  .line {
-    height: 2%;
   }
 }
 @media only screen and (min-width: 700px) {
@@ -10605,10 +10506,10 @@ h3 {
   .subtitle-jumbo {
     font-size: 6vw;
   }
-}
-@media only screen and (min-width: 768px) {
-  .content-contact {
-    padding-left: 15%;
+
+  .title-jumbo-secondary {
+    font-size: 4vw;
+    width: 30%;
   }
 }
 @media only screen and (min-width: 960px) {
@@ -10616,24 +10517,6 @@ h3 {
     font-size: 3vw;
   }
 }
-@media only screen and (min-width: 1200px) {
-  h2 {
-    font-size: 3em;
-  }
-
-  .my-contacts {
-    margin-top: 5%;
-  }
-
-  .content-contact {
-    margin-left: 0%;
-    padding-left: 20%;
-  }
-}
-#servicesImgPage {
-  background-image: url("../../img/material/sedutora.jpg");
-}
-
 nav {
   border-top: 3px solid #c80ca9;
 }
@@ -10727,6 +10610,137 @@ nav {
     }
   }
 }
+#home {
+  height: 100vh;
+}
+
+#homeImg {
+  background-image: url("../img/material/batons.jpg");
+  height: 100%;
+}
+
+#servicesImg {
+  background-image: url("../img/material/cinto-pinceis.jpg");
+  height: 100vh;
+}
+
+#aboutImg {
+  background-image: url("../img/professional/francielly-rodrigues-10.jpg");
+}
+
+#jobsImg {
+  background-image: url("../img/jobs/design-personalizado-e-medicao-facial-com-paquimetro.jpeg");
+}
+
+#contactImg {
+  background-image: url("../img/material/diversos.jpg");
+}
+
+.name-section {
+  font-size: 3em;
+  font-weight: bold;
+}
+
+.service-type {
+  font-size: 22px;
+}
+
+.dot {
+  color: #c80ca9;
+  font-family: serif;
+  font-size: 100px;
+}
+
+.line {
+  background: pink;
+  height: 1%;
+  margin: 0.7em auto;
+  width: 15%;
+}
+
+.btn-page {
+  border: 1px solid #c80ca9;
+  border-radius: 5px;
+  color: #c80ca9;
+  font-size: 25px;
+  font-style: italic;
+  padding: 0.5em;
+  -webkit-transition: 0.7s;
+  transition: 0.7s;
+}
+
+.btn-page:hover {
+  color: lavender;
+  background-color: #c80ca9;
+  text-decoration: none;
+}
+
+.content {
+  font-size: 16px;
+}
+
+.content, .content-contact {
+  font-family: "Open Sans Condensed", sans-serif;
+  font-weight: bold;
+}
+
+.carousel-inner > .carousel-item > img {
+  min-width: 100%;
+  height: 500px;
+}
+
+.content-contact {
+  font-size: 20px;
+  padding-left: 25%;
+}
+
+.icon-contact, .icon-follow {
+  font-size: 2em;
+}
+
+.icon-follow {
+  color: #d559a5;
+  -webkit-transition: 0.5s;
+  transition: 0.5s;
+}
+
+.icon-follow:hover {
+  color: #c80ca9;
+}
+
+@media only screen and (min-width: 576px) {
+  .content-contact {
+    padding-left: 10%;
+  }
+
+  .line {
+    height: 2%;
+  }
+}
+@media only screen and (min-width: 768px) {
+  .content-contact {
+    padding-left: 15%;
+  }
+}
+@media only screen and (min-width: 1200px) {
+  h2 {
+    font-size: 3em;
+  }
+
+  .my-contacts {
+    margin-top: 5%;
+  }
+
+  .content-contact {
+    margin-left: 0%;
+    padding-left: 20%;
+  }
+}
+#servicesImgPage {
+  background-image: url("../../img/material/pinceis.jpg");
+  height: 100vh;
+}
+
 .client,
 .developer {
   color: lavender;
@@ -10878,11 +10892,4 @@ nav {
   .job-img {
     height: 350px;
   }
-}
-html {
-  scroll-behavior: smooth;
-}
-
-body {
-  font-family: "Arial", "Helvetica", sans-serif;
 }

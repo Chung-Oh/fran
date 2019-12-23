@@ -9,16 +9,9 @@
 @import '~bootstrap/scss/bootstrap';
 
 // My styles
+@import 'templates/generic';
+@import 'templates/navbar';
 @import 'pages/home';
 @import 'pages/services';
-@import 'templates/navbar';
 @import 'templates/footer';
 @import 'components/mosaic';
-
-html {
-    scroll-behavior: smooth;
-}
-
-body {
-    font-family: 'Arial', 'Helvetica', sans-serif;
-}

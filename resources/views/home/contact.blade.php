@@ -13,7 +13,7 @@
             </p>
         </div>
     </div>
-    <div class="text-center py-5">
+    <div class="text-center py-5 mb-5">
         <h3>Siga-me:</h3>
         <div class="container py-3">
             <a class="mr-2" href="https://m.facebook.com/franciellyrodriguesmakeup/" target="blank"><i class="icon-follow fab fa-facebook-square"></i></a>

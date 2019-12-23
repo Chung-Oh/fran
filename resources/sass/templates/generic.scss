@@ -1,0 +1,80 @@
+html {
+    scroll-behavior: smooth;
+}
+
+body {
+    font-family: 'Arial', 'Helvetica', sans-serif;
+}
+
+.parallax {
+    /* Set a specific height */
+    height: 750px;
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.title-jumbo, .title-jumbo-secondary {
+    background-color: white;
+    font-size: 10vw; /* Responsive font size */
+    top: 50%; /* Position text in the middle */
+    mix-blend-mode: screen; /* This makes the cutout text possible */
+    width: 70%;
+}
+
+.title-jumbo, .subtitle-jumbo, .title-jumbo-secondary {
+    color: black;
+    font-weight: bold;
+    left: 50%; /* Position text in the middle */
+    margin: 0 auto; /* Center the text container */
+    padding: 10px;
+    position: absolute; /* Position text */
+    text-align: center; /* Center text */
+    transform: translate(-50%, -50%); /* Position text in the middle */
+}
+
+.subtitle-jumbo {
+    font-size: 6vw;
+    text-align: center;
+    position: absolute;
+    top: 67%;
+    width: 85%;
+    animation-name: subtitle;
+    animation-duration: 3s;
+}
+
+@keyframes subtitle {
+    from {
+        left: -50%;
+    }
+    to {
+        left: 50%;
+    }
+}
+
+@media only screen and (max-height: 400px) {
+    .subtitle-jumbo {
+        top: 80%;
+    }
+}
+
+@media only screen and (min-width: 700px) {
+    .title-jumbo {
+        font-size: 6vw;
+    }
+    .subtitle-jumbo {
+        font-size: 6vw;
+    }
+    .title-jumbo-secondary {
+        font-size: 4vw;
+        width: 30%;
+    }
+}
+
+@media only screen and (min-width: 960px) {
+    .subtitle-jumbo {
+        font-size: 3vw;
+    }
+}
