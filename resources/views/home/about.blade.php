@@ -29,11 +29,11 @@
             <div class="carousel-inner">
 
                 <div class="carousel-item active">
-                    <img src="img/professional/francielly-rodrigues.jpeg" class="d-block w-100" alt="Profissional da Beleza Francielly Rodrigues foto 1.">
+                    <img src="img/professional/francielly-rodrigues.jpg" class="d-block w-100" alt="Profissional da Beleza Francielly Rodrigues foto 1.">
                 </div>
 
                 <div class="carousel-item">
-                    <img src="img/professional/francielly-rodrigues-1.jpeg" class="d-block w-100" alt="Profissional da Beleza Francielly Rodrigues foto 2.">
+                    <img src="img/professional/francielly-rodrigues-1.jpg" class="d-block w-100" alt="Profissional da Beleza Francielly Rodrigues foto 2.">
                     <div class="carousel-caption d-none d-md-block">
                         <h5>Second slide label</h5>
                         <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
@@ -41,7 +41,7 @@
                 </div>
 
                 <div class="carousel-item">
-                    <img src="img/professional/francielly-rodrigues-2.jpeg" class="d-block w-100" alt="Profissional da Beleza Francielly Rodrigues foto 3.">
+                    <img src="img/professional/francielly-rodrigues-2.jpg" class="d-block w-100" alt="Profissional da Beleza Francielly Rodrigues foto 3.">
                     <div class="carousel-caption d-none d-md-block">
                         <h5>Third slide label</h5>
                         <p>Praesent commodo cursus magna, vel scelerisque nisl consectetur.</p>
@@ -49,7 +49,7 @@
                 </div>
 
                 <div class="carousel-item">
-                    <img src="img/professional/francielly-rodrigues-4.jpeg" class="d-block w-100" alt="Profissional da Beleza Francielly Rodrigues foto 3.">
+                    <img src="img/professional/francielly-rodrigues-4.jpg" class="d-block w-100" alt="Profissional da Beleza Francielly Rodrigues foto 3.">
                     <div class="carousel-caption d-none d-md-block">
                         <h5>Third slide label</h5>
                         <p>Praesent commodo cursus magna, vel scelerisque nisl consectetur.</p>
