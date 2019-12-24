@@ -10755,6 +10755,16 @@ nav {
   height: 100vh;
 }
 
+#aboutImgPage {
+  background-image: url("../../img/material/rosas-coloridas.jpg");
+  height: 100vh;
+}
+
+#jobsImgPage {
+  background-image: url("../../img/material/estojo-po-2.jpg");
+  height: 100vh;
+}
+
 .client,
 .developer {
   color: lavender;
