@@ -2,7 +2,7 @@
     <div id="jobsImg" class="parallax"></div>
     <h2 id="jobs" class="name-section text-center py-3">Portfólio <span class="dot">.</span></h2>
     <div class="container py-3">
-        <p class="content col-xl-10 col-lg-10 col-md-10 col-sm-10 mx-auto my-3">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the
+        <p class="content col-xl-8 col-lg-8 col-md-10 col-sm-12 mx-auto my-3">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the
             industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and
             scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into
             electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of

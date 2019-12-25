@@ -10639,7 +10639,7 @@ nav {
 }
 
 #aboutImg {
-  background-image: url("../img/professional/francielly-rodrigues-10.jpg");
+  background-image: url("../img/professional/francielly-rodrigues-1.jpg");
 }
 
 #jobsImg {
@@ -10755,16 +10755,35 @@ nav {
   height: 100vh;
 }
 
+#aboutImgPage, #aboutImgPage2, #aboutImgPage3 {
+  height: 100vh;
+}
+
 #aboutImgPage {
   background-image: url("../../img/material/rosas-coloridas.jpg");
-  height: 100vh;
+}
+
+#aboutImgPage2 {
+  background-image: url("../../img/professional/francielly-rodrigues-9.jpg");
+}
+
+#aboutImgPage3 {
+  background-image: url("../../img/professional/francielly-rodrigues-1.jpg");
 }
 
 #aboutMe1 {
-  background-image: url("../../img/professional/francielly-rodrigues-10.jpg");
-  height: 100vh;
+  border-radius: 50%;
 }
 
+@media only screen and (min-width: 1024px) {
+  #aboutMe2 {
+    border-radius: 50%;
+    max-width: 400px;
+    max-height: 550px;
+    width: auto;
+    height: auto;
+  }
+}
 #jobsImgPage {
   background-image: url("../../img/material/estojo-po-2.jpg");
   height: 100vh;

@@ -19,21 +19,24 @@
         </div>
 
         <!-- CAROUSEL -->
-        <div id="carouselCaptions" class="carousel slide mt-3 mb-5 pb-3 col-xl-6 col-lg-6 col-md-6 col-sm-12 col-12" data-ride="carousel">
+        <div id="carouselCaptions" class="carousel slide mt-3 mb-5 mx-auto pb-3 col-xl-6 col-lg-6 col-md-10 col-sm-10 col-12" data-ride="carousel">
             <ol class="carousel-indicators">
                 <li data-target="#carouselCaptions" data-slide-to="0" class="active"></li>
                 <li data-target="#carouselCaptions" data-slide-to="1"></li>
                 <li data-target="#carouselCaptions" data-slide-to="2"></li>
                 <li data-target="#carouselCaptions" data-slide-to="3"></li>
+                <li data-target="#carouselCaptions" data-slide-to="4"></li>
+                <li data-target="#carouselCaptions" data-slide-to="5"></li>
+                <li data-target="#carouselCaptions" data-slide-to="6"></li>
             </ol>
             <div class="carousel-inner">
 
                 <div class="carousel-item active">
-                    <img src="img/professional/francielly-rodrigues.jpg" class="d-block w-100" alt="Profissional da Beleza Francielly Rodrigues foto 1.">
+                    <img src="img/professional/francielly-rodrigues-2.jpg" class="d-block w-100" alt="Profissional da Beleza Francielly Rodrigues foto 1.">
                 </div>
 
                 <div class="carousel-item">
-                    <img src="img/professional/francielly-rodrigues-1.jpg" class="d-block w-100" alt="Profissional da Beleza Francielly Rodrigues foto 2.">
+                    <img src="img/professional/francielly-rodrigues-3.jpg" class="d-block w-100" alt="Profissional da Beleza Francielly Rodrigues foto 2.">
                     <div class="carousel-caption d-none d-md-block">
                         <h5>Second slide label</h5>
                         <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
@@ -41,7 +44,7 @@
                 </div>
 
                 <div class="carousel-item">
-                    <img src="img/professional/francielly-rodrigues-2.jpg" class="d-block w-100" alt="Profissional da Beleza Francielly Rodrigues foto 3.">
+                    <img src="img/professional/francielly-rodrigues-4.jpg" class="d-block w-100" alt="Profissional da Beleza Francielly Rodrigues foto 3.">
                     <div class="carousel-caption d-none d-md-block">
                         <h5>Third slide label</h5>
                         <p>Praesent commodo cursus magna, vel scelerisque nisl consectetur.</p>
@@ -49,7 +52,31 @@
                 </div>
 
                 <div class="carousel-item">
-                    <img src="img/professional/francielly-rodrigues-4.jpg" class="d-block w-100" alt="Profissional da Beleza Francielly Rodrigues foto 3.">
+                    <img src="img/professional/francielly-rodrigues-5.jpg" class="d-block w-100" alt="Profissional da Beleza Francielly Rodrigues foto 4.">
+                    <div class="carousel-caption d-none d-md-block">
+                        <h5>Third slide label</h5>
+                        <p>Praesent commodo cursus magna, vel scelerisque nisl consectetur.</p>
+                    </div>
+                </div>
+
+                <div class="carousel-item">
+                    <img src="img/professional/francielly-rodrigues-6.jpg" class="d-block w-100" alt="Profissional da Beleza Francielly Rodrigues foto 5.">
+                    <div class="carousel-caption d-none d-md-block">
+                        <h5>Third slide label</h5>
+                        <p>Praesent commodo cursus magna, vel scelerisque nisl consectetur.</p>
+                    </div>
+                </div>
+
+                <div class="carousel-item">
+                    <img src="img/professional/francielly-rodrigues-7.jpg" class="d-block w-100" alt="Profissional da Beleza Francielly Rodrigues foto 6.">
+                    <div class="carousel-caption d-none d-md-block">
+                        <h5>Third slide label</h5>
+                        <p>Praesent commodo cursus magna, vel scelerisque nisl consectetur.</p>
+                    </div>
+                </div>
+
+                <div class="carousel-item">
+                    <img src="img/professional/francielly-rodrigues-8.jpg" class="d-block w-100" alt="Profissional da Beleza Francielly Rodrigues foto 7.">
                     <div class="carousel-caption d-none d-md-block">
                         <h5>Third slide label</h5>
                         <p>Praesent commodo cursus magna, vel scelerisque nisl consectetur.</p>
