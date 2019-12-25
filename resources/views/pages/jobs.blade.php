@@ -15,7 +15,7 @@
             <p class="content align-self-center col-xl-6 col-lg-6 col-md-6 col-sm-12 col-12 my-3">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p>
             <figure class="align-self-center col-xl-6 col-lg-6 col-md-6 col-sm-12 col-12 my-3">
                 <img class="img-fluid" src="../img/jobs/workshop-para-profissionais.jpg" alt="Workshop para profissionais.">
-                <figcaption class="font-italic text-center small">Workshop para profissionais</figcaption>
+                <figcaption class="font-italic text-center small">Workshop para profissionais.</figcaption>
             </figure>
         </div>
     </section>
@@ -65,7 +65,7 @@
             <img class="job-img col-xl-2 col-lg-2 col-md-4 col-sm-4 col-6 px-0" src="img/jobs/workshop-para-profissionais.jpg" alt="Workshop para profissionais">
             <img class="job-img col-xl-2 col-lg-2 col-md-4 col-sm-4 col-6 px-0" src="img/jobs/workshop-para-profissionais.jpg" alt="Workshop para profissionais">
             <img class="job-img col-xl-2 col-lg-2 col-md-4 col-sm-4 col-6 px-0" src="img/jobs/workshop-para-profissionais.jpg" alt="Workshop para profissionais">
-            <img class="job-img col-xl-2 col-lg-2 col-md-4 col-sm-4 col-12 px-0" src="img/jobs/cursos-de-auto-maquiagem.jpg" alt="Cursos de auto maquiagem">
+            <img class="job-img col-xl-2 col-lg-2 col-md-4 col-sm-4 col-12 px-0" src="img/jobs/trabalho-como-promotora-soneda.jpg" alt="Dia a dia como promotora">
         </div>
         <!-- The Modal -->
         <div id="myModal" class="modal">
