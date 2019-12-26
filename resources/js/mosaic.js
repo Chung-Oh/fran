@@ -15,7 +15,6 @@ function activeMosaic() {
         }
     });
 
-    // When the user clicks on <span> (x), close the modal
     modal.onclick = function () {
         modal.style.display = "none";
     }

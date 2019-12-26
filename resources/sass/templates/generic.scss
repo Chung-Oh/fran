@@ -54,6 +54,13 @@ body {
     }
 }
 
+.line {
+    background: pink;
+    height: 2px;
+    margin: .7em auto;
+    width: 15%;
+}
+
 @media only screen and (max-height: 400px) {
     .subtitle-jumbo {
         top: 80%;
@@ -88,5 +95,8 @@ body {
 @media only screen and (min-width: 960px) {
     .subtitle-jumbo {
         font-size: 4vw;
+    }
+    .line {
+        height: 4px;
     }
 }

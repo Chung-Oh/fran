@@ -6,7 +6,7 @@
 
     <section>
         <div id="aboutImgPage" class="parallax">
-            <h1 class="title-jumbo-secondary">Sobre mim</h1>
+            <h1 class="title-jumbo-secondary">Sobre Mim</h1>
         </div>
     </section>
     <section>

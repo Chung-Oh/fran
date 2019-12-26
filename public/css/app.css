@@ -10493,6 +10493,13 @@ body {
     left: 50%;
   }
 }
+.line {
+  background: pink;
+  height: 2px;
+  margin: 0.7em auto;
+  width: 15%;
+}
+
 @media only screen and (max-height: 400px) {
   .subtitle-jumbo {
     top: 80%;
@@ -10527,6 +10534,10 @@ body {
 @media only screen and (min-width: 960px) {
   .subtitle-jumbo {
     font-size: 4vw;
+  }
+
+  .line {
+    height: 4px;
   }
 }
 nav {
@@ -10624,18 +10635,16 @@ nav {
     }
   }
 }
-#home {
+#homeImg, #servicesImg, #aboutImg, #jobsImg, #contactImg {
   height: 100vh;
 }
 
 #homeImg {
   background-image: url("../img/material/batons.jpg");
-  height: 100%;
 }
 
 #servicesImg {
   background-image: url("../img/material/cinto-pinceis.jpg");
-  height: 100vh;
 }
 
 #aboutImg {
@@ -10663,13 +10672,6 @@ nav {
   color: #c80ca9;
   font-family: serif;
   font-size: 100px;
-}
-
-.line {
-  background: pink;
-  height: 1%;
-  margin: 0.7em auto;
-  width: 15%;
 }
 
 .btn-page {
@@ -10726,10 +10728,6 @@ nav {
   .content-contact {
     padding-left: 10%;
   }
-
-  .line {
-    height: 2%;
-  }
 }
 @media only screen and (min-width: 768px) {
   .content-contact {
@@ -10750,9 +10748,16 @@ nav {
     padding-left: 20%;
   }
 }
+#servicesImgPage, #servicesImgPage2 {
+  height: 100vh;
+}
+
 #servicesImgPage {
   background-image: url("../../img/material/pinceis.jpg");
-  height: 100vh;
+}
+
+#servicesImgPage2 {
+  background-image: url("../../img/material/sedutora.jpg");
 }
 
 #aboutImgPage, #aboutImgPage2, #aboutImgPage3 {

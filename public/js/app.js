@@ -36974,7 +36974,7 @@ function activeMosaic() {
       modalImg.src = this.src;
       captionText.innerHTML = this.alt;
     };
-  }); // When the user clicks on <span> (x), close the modal
+  });
 
   modal.onclick = function () {
     modal.style.display = "none";

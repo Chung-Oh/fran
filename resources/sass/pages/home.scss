@@ -1,15 +1,13 @@
-#home {
+#homeImg, #servicesImg, #aboutImg, #jobsImg, #contactImg {
     height: 100vh;
 }
 
 #homeImg {
     background-image: url("../img/material/batons.jpg");
-    height: 100%;
 }
 
 #servicesImg {
     background-image: url("../img/material/cinto-pinceis.jpg");
-    height: 100vh;
 }
 
 #aboutImg {
@@ -37,13 +35,6 @@
     color: #c80ca9;
     font-family: serif;
     font-size: 100px;
-}
-
-.line {
-    background: pink;
-    height: 1%;
-    margin: .7em auto;
-    width: 15%;
 }
 
 .btn-page {
@@ -97,9 +88,6 @@
 @media only screen and (min-width: 576px) {
     .content-contact {
         padding-left: 10%;
-    }
-    .line {
-        height: 2%;
     }
 }
 

@@ -6,7 +6,7 @@
 
     <section>
         <div id="jobsImgPage" class="parallax">
-            <h1 class="title-jumbo-secondary">Meus trabalhos</h1>
+            <h1 class="title-jumbo-secondary">Meus Trabalhos</h1>
         </div>
     </section>
     <section>
