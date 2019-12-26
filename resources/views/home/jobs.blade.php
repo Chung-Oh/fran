@@ -23,9 +23,9 @@
         <img class="job-img col-xl-4 col-lg-4 col-md-4 col-sm-4 col-6 px-0" src="img/jobs/make-pele-negra.jpg" alt="Make pele negra.">
     </div>
     <!-- The Modal -->
-    <div id="myModal" class="modal.">
+    <div id="myModal" class="modal">
         <!-- The Close Button -->
-        <span class="close.">&times;</span>
+        <span class="close">&times;</span>
         <!-- Modal Content (The Image) -->
         <img class="modal-content" id="imgRecepient">
         <!-- Modal Caption (Image Text) -->
