@@ -12,20 +12,20 @@
 
     <!-- Trigger the Modal -->
     <div class="row pt-5 mr-0">
-        <img class="job-img col-xl-4 col-lg-4 col-md-4 col-sm-4 col-12 px-0" src="img/jobs/design-com-hena.jpg" alt="Design com hena">
-        <img class="job-img col-xl-4 col-lg-4 col-md-4 col-sm-4 col-6 px-0" src="img/jobs/make-noiva.jpg" alt="Make noite">
-        <img class="job-img col-xl-4 col-lg-4 col-md-4 col-sm-4 col-6 px-0" src="img/jobs/cabelo-laque.jpg" alt="Cabelo laque">
-        <img class="job-img col-xl-4 col-lg-4 col-md-4 col-sm-4 col-6 px-0" src="img/jobs/make-curso-expert-em-noivas.jpg" alt="Make curso expert em noivas">
-        <img class="job-img col-xl-4 col-lg-4 col-md-4 col-sm-4 col-6 px-0" src="img/jobs/make-glan.jpg" alt="Make glan">
-        <img class="job-img col-xl-4 col-lg-4 col-md-4 col-sm-4 col-6 px-0" src="img/jobs/micropgmentacao.jpg" alt="Micropgmentação">
-        <img class="job-img col-xl-4 col-lg-4 col-md-4 col-sm-4 col-6 px-0" src="img/jobs/microblading-fio-a-fio.jpg" alt="Microblanding fio a fio">
-        <img class="job-img col-xl-4 col-lg-4 col-md-4 col-sm-4 col-6 px-0" src="img/jobs/penteado-para-festa.jpg" alt="Penteado para festa">
-        <img class="job-img col-xl-4 col-lg-4 col-md-4 col-sm-4 col-6 px-0" src="img/jobs/make-pele-negra.jpg" alt="Make pele negra">
+        <img class="job-img col-xl-4 col-lg-4 col-md-4 col-sm-4 col-12 px-0" src="img/jobs/design-com-hena.jpg" alt="Design com hena.">
+        <img class="job-img col-xl-4 col-lg-4 col-md-4 col-sm-4 col-6 px-0" src="img/jobs/make-noiva.jpg" alt="Make noite.">
+        <img class="job-img col-xl-4 col-lg-4 col-md-4 col-sm-4 col-6 px-0" src="img/jobs/cabelo-laque.jpg" alt="Cabelo laque.">
+        <img class="job-img col-xl-4 col-lg-4 col-md-4 col-sm-4 col-6 px-0" src="img/jobs/make-curso-expert-em-noivas.jpg" alt="Make curso expert em noivas.">
+        <img class="job-img col-xl-4 col-lg-4 col-md-4 col-sm-4 col-6 px-0" src="img/jobs/make-glan.jpg" alt="Make glan.">
+        <img class="job-img col-xl-4 col-lg-4 col-md-4 col-sm-4 col-6 px-0" src="img/jobs/micropgmentacao.jpg" alt="Micropgmentação.">
+        <img class="job-img col-xl-4 col-lg-4 col-md-4 col-sm-4 col-6 px-0" src="img/jobs/microblading-fio-a-fio.jpg" alt="Microblanding fio a fio.">
+        <img class="job-img col-xl-4 col-lg-4 col-md-4 col-sm-4 col-6 px-0" src="img/jobs/penteado-para-festa.jpg" alt="Penteado para festa.">
+        <img class="job-img col-xl-4 col-lg-4 col-md-4 col-sm-4 col-6 px-0" src="img/jobs/make-pele-negra.jpg" alt="Make pele negra.">
     </div>
     <!-- The Modal -->
-    <div id="myModal" class="modal">
+    <div id="myModal" class="modal.">
         <!-- The Close Button -->
-        <span class="close">&times;</span>
+        <span class="close.">&times;</span>
         <!-- Modal Content (The Image) -->
         <img class="modal-content" id="imgRecepient">
         <!-- Modal Caption (Image Text) -->

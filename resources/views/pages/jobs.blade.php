@@ -23,49 +23,49 @@
     <section>
         <!-- Trigger the Modal -->
         <div class="row pt-2 mr-0">
-            <img class="job-img col-xl-2 col-lg-2 col-md-4 col-sm-4 col-12 px-0" src="img/jobs/cursos-de-auto-maquiagem.jpg" alt="Cursos de auto maquiagem">
-            <img class="job-img col-xl-2 col-lg-2 col-md-4 col-sm-4 col-6 px-0" src="img/jobs/atendimento-exclusivo-durante-eventos-debutante-event-care.jpg" alt="Atendimento exclusivo durante eventos debutante event care">
-            <img class="job-img col-xl-2 col-lg-2 col-md-4 col-sm-4 col-6 px-0" src="img/jobs/cabelo-laque.jpg" alt="Cabelo laque">
-            <img class="job-img col-xl-2 col-lg-2 col-md-4 col-sm-4 col-6 px-0" src="img/jobs/cursos-de-auto-maquiagem-pratica.jpg" alt="Cursos de auto maquiagem pratica">
-            <img class="job-img col-xl-2 col-lg-2 col-md-4 col-sm-4 col-6 px-0" src="img/jobs/cursos-de-postura-e-comportamento-profissional.jpg" alt="Cursos de postura e comportamento profissional">
-            <img class="job-img col-xl-2 col-lg-2 col-md-4 col-sm-4 col-6 px-0" src="img/jobs/cursos-profissionais.jpg" alt="Cursos profissionais">
-            <img class="job-img col-xl-2 col-lg-2 col-md-4 col-sm-4 col-6 px-0" src="img/jobs/design-com-hena.jpg" alt="Design com hena">
-            <img class="job-img col-xl-2 col-lg-2 col-md-4 col-sm-4 col-6 px-0" src="img/jobs/design-de-sobrancelhas.jpg" alt="Design de sobrancelhas">
-            <img class="job-img col-xl-2 col-lg-2 col-md-4 col-sm-4 col-6 px-0" src="img/jobs/design-de-sobrancelhas-2.jpg" alt="Design de sobrancelhas">
-            <img class="job-img col-xl-2 col-lg-2 col-md-4 col-sm-4 col-6 px-0" src="img/jobs/design-e-maquiagem-masculina-para-eventos.jpg" alt="Design e maquiagem masculina para eventos">
-            <img class="job-img col-xl-2 col-lg-2 col-md-4 col-sm-4 col-6 px-0" src="img/jobs/design-masculino.jpg" alt="Design masculino">
-            <img class="job-img col-xl-2 col-lg-2 col-md-4 col-sm-4 col-6 px-0" src="img/jobs/design-personalizado-e-medicao-facial-com-paquimetro.jpg" alt="Design personalizado e medicao facial com paquimetro">
-            <img class="job-img col-xl-2 col-lg-2 col-md-4 col-sm-4 col-6 px-0" src="img/jobs/home-care-noiva.jpg" alt="Home care noiva">
-            <img class="job-img col-xl-2 col-lg-2 col-md-4 col-sm-4 col-6 px-0" src="img/jobs/madrinhas.jpg" alt="Madrinhas">
-            <img class="job-img col-xl-2 col-lg-2 col-md-4 col-sm-4 col-6 px-0" src="img/jobs/make-curso-expert-em-noivas.jpg" alt="Make curso expert em noivas">
-            <img class="job-img col-xl-2 col-lg-2 col-md-4 col-sm-4 col-6 px-0" src="img/jobs/make-e-hair-noiva.jpg" alt="Make e hair noiva">
-            <img class="job-img col-xl-2 col-lg-2 col-md-4 col-sm-4 col-6 px-0" src="img/jobs/make-e-hair-noiva-2.jpg" alt="Make e hair noiva">
-            <img class="job-img col-xl-2 col-lg-2 col-md-4 col-sm-4 col-6 px-0" src="img/jobs/make-e-hair-para-ensaios-fotograficos.jpg" alt="Make e hair para ensaios fotograficos">
-            <img class="job-img col-xl-2 col-lg-2 col-md-4 col-sm-4 col-6 px-0" src="img/jobs/make-em-curso-profissional.jpg" alt="Make em curso profissional">
-            <img class="job-img col-xl-2 col-lg-2 col-md-4 col-sm-4 col-6 px-0" src="img/jobs/make-noiva.jpg" alt="Make noiva">
-            <img class="job-img col-xl-2 col-lg-2 col-md-4 col-sm-4 col-6 px-0" src="img/jobs/make-para-evento.jpg" alt="Make para evento">
-            <img class="job-img col-xl-2 col-lg-2 col-md-4 col-sm-4 col-6 px-0" src="img/jobs/make-para-evento-diurno.jpg" alt="Make para evento diurno">
-            <img class="job-img col-xl-2 col-lg-2 col-md-4 col-sm-4 col-6 px-0" src="img/jobs/make-pele-negra.jpg" alt="Make pele negra">
-            <img class="job-img col-xl-2 col-lg-2 col-md-4 col-sm-4 col-6 px-0" src="img/jobs/making-off-noivas.jpg" alt="Making off noivas">
-            <img class="job-img col-xl-2 col-lg-2 col-md-4 col-sm-4 col-6 px-0" src="img/jobs/maquiagem-e-penteado-para-mae-dos-noivos.jpg" alt="Maquiagem e penteado para mae dos noivos">
-            <img class="job-img col-xl-2 col-lg-2 col-md-4 col-sm-4 col-6 px-0" src="img/jobs/microblading-fio-a-fio.jpg" alt="Microblanding fio a fio">
-            <img class="job-img col-xl-2 col-lg-2 col-md-4 col-sm-4 col-6 px-0" src="img/jobs/microblanding-fio-a-fio-semi-permanente-em-sobrancelhas-2.jpg" alt="Microblanding fio a fio">
-            <img class="job-img col-xl-2 col-lg-2 col-md-4 col-sm-4 col-6 px-0" src="img/jobs/micropgmentacao.jpg" alt="Micropgmentação">
-            <img class="job-img col-xl-2 col-lg-2 col-md-4 col-sm-4 col-6 px-0" src="img/jobs/micropgmentacao-2.jpg" alt="Micropgmentação">
-            <img class="job-img col-xl-2 col-lg-2 col-md-4 col-sm-4 col-6 px-0" src="img/jobs/noiva-by-me.jpg" alt="Noiva by me">
-            <img class="job-img col-xl-2 col-lg-2 col-md-4 col-sm-4 col-6 px-0" src="img/jobs/noiva-classica.jpg" alt="Noiva clássica">
-            <img class="job-img col-xl-2 col-lg-2 col-md-4 col-sm-4 col-6 px-0" src="img/jobs/noiva-classica-2.jpg" alt="Noiva clássica">
-            <img class="job-img col-xl-2 col-lg-2 col-md-4 col-sm-4 col-6 px-0" src="img/jobs/pacote-penteado-mais-make.jpg" alt="Pacote penteado mais make">
-            <img class="job-img col-xl-2 col-lg-2 col-md-4 col-sm-4 col-6 px-0" src="img/jobs/penteado-noiva.jpg" alt="Penteado noiva">
-            <img class="job-img col-xl-2 col-lg-2 col-md-4 col-sm-4 col-6 px-0" src="img/jobs/penteado-para-festa.jpg" alt="Penteado para festa">
-            <img class="job-img col-xl-2 col-lg-2 col-md-4 col-sm-4 col-6 px-0" src="img/jobs/teste-de-noiva.jpg" alt="Teste de noiva">
-            <img class="job-img col-xl-2 col-lg-2 col-md-4 col-sm-4 col-6 px-0" src="img/jobs/make-noiva.jpg" alt="Make noite">
-            <img class="job-img col-xl-2 col-lg-2 col-md-4 col-sm-4 col-6 px-0" src="img/jobs/workshops-de-atualizacoes-profissionais.jpg" alt="Workshops de atualizacoes profissionais">
+            <img class="job-img col-xl-2 col-lg-2 col-md-4 col-sm-4 col-12 px-0" src="img/jobs/cursos-de-auto-maquiagem.jpg" alt="Cursos de auto maquiagem.">
+            <img class="job-img col-xl-2 col-lg-2 col-md-4 col-sm-4 col-6 px-0" src="img/jobs/atendimento-exclusivo-durante-eventos-debutante-event-care.jpg" alt="Atendimento exclusivo durante eventos debutante event care.">
+            <img class="job-img col-xl-2 col-lg-2 col-md-4 col-sm-4 col-6 px-0" src="img/jobs/cabelo-laque.jpg" alt="Cabelo laque.">
+            <img class="job-img col-xl-2 col-lg-2 col-md-4 col-sm-4 col-6 px-0" src="img/jobs/cursos-de-auto-maquiagem-pratica.jpg" alt="Cursos de auto maquiagem pratica.">
+            <img class="job-img col-xl-2 col-lg-2 col-md-4 col-sm-4 col-6 px-0" src="img/jobs/cursos-de-postura-e-comportamento-profissional.jpg" alt="Cursos de postura e comportamento profissional.">
+            <img class="job-img col-xl-2 col-lg-2 col-md-4 col-sm-4 col-6 px-0" src="img/jobs/cursos-profissionais.jpg" alt="Cursos profissionais.">
+            <img class="job-img col-xl-2 col-lg-2 col-md-4 col-sm-4 col-6 px-0" src="img/jobs/design-com-hena.jpg" alt="Design com hena.">
+            <img class="job-img col-xl-2 col-lg-2 col-md-4 col-sm-4 col-6 px-0" src="img/jobs/design-de-sobrancelhas.jpg" alt="Design de sobrancelhas.">
+            <img class="job-img col-xl-2 col-lg-2 col-md-4 col-sm-4 col-6 px-0" src="img/jobs/design-de-sobrancelhas-2.jpg" alt="Design de sobrancelhas.">
+            <img class="job-img col-xl-2 col-lg-2 col-md-4 col-sm-4 col-6 px-0" src="img/jobs/design-e-maquiagem-masculina-para-eventos.jpg" alt="Design e maquiagem masculina para eventos.">
+            <img class="job-img col-xl-2 col-lg-2 col-md-4 col-sm-4 col-6 px-0" src="img/jobs/design-masculino.jpg" alt="Design masculino.">
+            <img class="job-img col-xl-2 col-lg-2 col-md-4 col-sm-4 col-6 px-0" src="img/jobs/design-personalizado-e-medicao-facial-com-paquimetro.jpg" alt="Design personalizado e medicao facial com paquimetro.">
+            <img class="job-img col-xl-2 col-lg-2 col-md-4 col-sm-4 col-6 px-0" src="img/jobs/home-care-noiva.jpg" alt="Home care noiva.">
+            <img class="job-img col-xl-2 col-lg-2 col-md-4 col-sm-4 col-6 px-0" src="img/jobs/madrinhas.jpg" alt="Madrinhas.">
+            <img class="job-img col-xl-2 col-lg-2 col-md-4 col-sm-4 col-6 px-0" src="img/jobs/make-curso-expert-em-noivas.jpg" alt="Make curso expert em noivas.">
+            <img class="job-img col-xl-2 col-lg-2 col-md-4 col-sm-4 col-6 px-0" src="img/jobs/make-e-hair-noiva.jpg" alt="Make e hair noiva.">
+            <img class="job-img col-xl-2 col-lg-2 col-md-4 col-sm-4 col-6 px-0" src="img/jobs/make-e-hair-noiva-2.jpg" alt="Make e hair noiva.">
+            <img class="job-img col-xl-2 col-lg-2 col-md-4 col-sm-4 col-6 px-0" src="img/jobs/make-e-hair-para-ensaios-fotograficos.jpg" alt="Make e hair para ensaios fotograficos.">
+            <img class="job-img col-xl-2 col-lg-2 col-md-4 col-sm-4 col-6 px-0" src="img/jobs/make-em-curso-profissional.jpg" alt="Make em curso profissional.">
+            <img class="job-img col-xl-2 col-lg-2 col-md-4 col-sm-4 col-6 px-0" src="img/jobs/make-noiva.jpg" alt="Make noiva.">
+            <img class="job-img col-xl-2 col-lg-2 col-md-4 col-sm-4 col-6 px-0" src="img/jobs/make-para-evento.jpg" alt="Make para evento.">
+            <img class="job-img col-xl-2 col-lg-2 col-md-4 col-sm-4 col-6 px-0" src="img/jobs/make-para-evento-diurno.jpg" alt="Make para evento diurno.">
+            <img class="job-img col-xl-2 col-lg-2 col-md-4 col-sm-4 col-6 px-0" src="img/jobs/make-pele-negra.jpg" alt="Make pele negra.">
+            <img class="job-img col-xl-2 col-lg-2 col-md-4 col-sm-4 col-6 px-0" src="img/jobs/making-off-noivas.jpg" alt="Making off noivas.">
+            <img class="job-img col-xl-2 col-lg-2 col-md-4 col-sm-4 col-6 px-0" src="img/jobs/maquiagem-e-penteado-para-mae-dos-noivos.jpg" alt="Maquiagem e penteado para mae dos noivos.">
+            <img class="job-img col-xl-2 col-lg-2 col-md-4 col-sm-4 col-6 px-0" src="img/jobs/microblading-fio-a-fio.jpg" alt="Microblanding fio a fio.">
+            <img class="job-img col-xl-2 col-lg-2 col-md-4 col-sm-4 col-6 px-0" src="img/jobs/microblanding-fio-a-fio-semi-permanente-em-sobrancelhas-2.jpg" alt="Microblanding fio a fio.">
+            <img class="job-img col-xl-2 col-lg-2 col-md-4 col-sm-4 col-6 px-0" src="img/jobs/micropgmentacao.jpg" alt="Micropgmentação.">
+            <img class="job-img col-xl-2 col-lg-2 col-md-4 col-sm-4 col-6 px-0" src="img/jobs/micropgmentacao-2.jpg" alt="Micropgmentação.">
+            <img class="job-img col-xl-2 col-lg-2 col-md-4 col-sm-4 col-6 px-0" src="img/jobs/noiva-by-me.jpg" alt="Noiva by me.">
+            <img class="job-img col-xl-2 col-lg-2 col-md-4 col-sm-4 col-6 px-0" src="img/jobs/noiva-classica.jpg" alt="Noiva clássica.">
+            <img class="job-img col-xl-2 col-lg-2 col-md-4 col-sm-4 col-6 px-0" src="img/jobs/noiva-classica-2.jpg" alt="Noiva clássica.">
+            <img class="job-img col-xl-2 col-lg-2 col-md-4 col-sm-4 col-6 px-0" src="img/jobs/pacote-penteado-mais-make.jpg" alt="Pacote penteado mais make.">
+            <img class="job-img col-xl-2 col-lg-2 col-md-4 col-sm-4 col-6 px-0" src="img/jobs/penteado-noiva.jpg" alt="Penteado noiva.">
+            <img class="job-img col-xl-2 col-lg-2 col-md-4 col-sm-4 col-6 px-0" src="img/jobs/penteado-para-festa.jpg" alt="Penteado para festa.">
+            <img class="job-img col-xl-2 col-lg-2 col-md-4 col-sm-4 col-6 px-0" src="img/jobs/teste-de-noiva.jpg" alt="Teste de noiva.">
+            <img class="job-img col-xl-2 col-lg-2 col-md-4 col-sm-4 col-6 px-0" src="img/jobs/make-noiva.jpg" alt="Make noite.">
+            <img class="job-img col-xl-2 col-lg-2 col-md-4 col-sm-4 col-6 px-0" src="img/jobs/workshops-de-atualizacoes-profissionais.jpg" alt="Workshops de atualizacoes profissionais.">
             <!-- Preciso adicionar só mais 1 foto, trocando pela a de baixo -->
-            <img class="job-img col-xl-2 col-lg-2 col-md-4 col-sm-4 col-6 px-0" src="img/jobs/workshop-para-profissionais.jpg" alt="Workshop para profissionais">
-            <img class="job-img col-xl-2 col-lg-2 col-md-4 col-sm-4 col-6 px-0" src="img/jobs/workshop-para-profissionais.jpg" alt="Workshop para profissionais">
-            <img class="job-img col-xl-2 col-lg-2 col-md-4 col-sm-4 col-6 px-0" src="img/jobs/workshop-para-profissionais.jpg" alt="Workshop para profissionais">
-            <img class="job-img col-xl-2 col-lg-2 col-md-4 col-sm-4 col-12 px-0" src="img/jobs/trabalho-como-promotora-soneda.jpg" alt="Dia a dia como promotora">
+            <img class="job-img col-xl-2 col-lg-2 col-md-4 col-sm-4 col-6 px-0" src="img/jobs/workshop-para-profissionais.jpg" alt="Workshop para profissionais.">
+            <img class="job-img col-xl-2 col-lg-2 col-md-4 col-sm-4 col-6 px-0" src="img/jobs/workshop-para-profissionais.jpg" alt="Workshop para profissionais.">
+            <img class="job-img col-xl-2 col-lg-2 col-md-4 col-sm-4 col-6 px-0" src="img/jobs/workshop-para-profissionais.jpg" alt="Workshop para profissionais.">
+            <img class="job-img col-xl-2 col-lg-2 col-md-4 col-sm-4 col-12 px-0" src="img/jobs/trabalho-como-promotora-soneda.jpg" alt="Dia a dia como promotora.">
         </div>
         <!-- The Modal -->
         <div id="myModal" class="modal">
