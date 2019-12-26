@@ -10756,6 +10756,11 @@ nav {
   background-image: url("../../img/material/sedutora.jpg");
 }
 
+@media only screen and (min-width: 768px) {
+  .last-service {
+    width: 60%;
+  }
+}
 #aboutImgPage, #aboutImgPage2, #aboutImgPage3 {
   height: 100vh;
 }
