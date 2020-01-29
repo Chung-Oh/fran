@@ -4,12 +4,7 @@
     <div class="container row mx-auto py-3">
 
         <div class="align-self-center col-xl-6 col-lg-6 col-md-6 col-sm-12 col-12 my-3">
-            <p class="content">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum
-                has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley
-                of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also
-                the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s
-                with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop
-                publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p>
+            <p class="content">Apaixonada por embelezar, realçando as qualidades, disfarçando pequenos defeitos e mostrando que cada pessoa tem sua beleza sem padrões, sem definições estabelecidas. Cada pessoa tem sua beleza, e gosto de valorizar isso nas pessoas, onde cada momento é especial e único. Amo participar, mostrando com a minha arte o que á de mais belo em cada um, para o seu momento ser inesquecível.</p>
             <p class="content">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum
                 has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley
                 of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also

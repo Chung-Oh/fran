@@ -9,7 +9,7 @@
             </p>
             <p class="content-contact d-flex align-items-center col-xl-6 col-lg-6 col-md-6 col-sm-6 col-10">
                 <i class="icon-contact fab fa-whatsapp-square mr-2"></i>
-                <span class="d-flex align-items-center">(11) 95971-4474</span>
+                <span class="d-flex align-items-center">(11) 94523-6168</span>
             </p>
         </div>
     </div>

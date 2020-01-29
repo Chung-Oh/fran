@@ -12,7 +12,7 @@
     <section>
         <div id="aboutImgPage2" class="parallax"></div>
         <div class="container row mx-auto py-3">
-            <p class="content align-self-center col-xl-6 col-lg-6 col-md-6 col-sm-12 col-12 my-3">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p>
+            <p class="content align-self-center col-xl-6 col-lg-6 col-md-6 col-sm-12 col-12 my-3">Com 31 anos, mãe de 3 filhos, formada inicialmente pelo SENAC de São Paulo, seguindo de workshops com experts como Vanessa Rozan entre outros, atualmente representando uma das maiores marcas de maquiagem no Brasil. Venho ao longo de mais de 8 anos, me especializando em diversas formas dentro do mundo da beleza não só na maquiagem, mas também em: design de sobrancelhas, microblanding , penteados e cursos.</p>
             <figure class="align-self-center col-xl-6 col-lg-6 col-md-6 col-sm-12 col-12 my-3">
                 <img id="aboutMe1" class="img-fluid" src="../img/professional/francielly-rodrigues-11.jpg" alt="Francielly no evento Sumirê Fashion Show.">
                 <figcaption class="font-italic text-center small">Evento Sumirê Fashion Show.</figcaption>
@@ -26,7 +26,7 @@
                 <img id="aboutMe2" class="img-fluid" src="../img/professional/francielly-rodrigues-12.jpg" alt="Francielly no evento Beauty Fair.">
                 <figcaption class="font-italic small">Evento Beauty Fair.</figcaption>
             </figure>
-            <p class="content align-self-center col-xl-6 col-lg-6 col-md-6 col-sm-12 col-12 my-3 mx-auto">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p>
+            <p class="content align-self-center col-xl-6 col-lg-6 col-md-6 col-sm-12 col-12 my-3 mx-auto">Beauty Fair é uma das  maiores feiras da beleza na América Latina, lá sempre acompanho lançamentos de produtos e tendências do mundo da beleza. Trabalho nesse super evento a três anos e sempre sou surpreendida, como a tecnologia e a modernidade vem nos ajudando, também nesse mundo incrível da beleza.</p>
         </div>
     </section>
 

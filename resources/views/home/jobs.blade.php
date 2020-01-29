@@ -14,7 +14,7 @@
     <div class="row pt-5 mr-0">
         <img class="job-img col-xl-4 col-lg-4 col-md-4 col-sm-4 col-12 px-0" src="img/jobs/design-com-hena.jpg" alt="Design com hena.">
         <img class="job-img col-xl-4 col-lg-4 col-md-4 col-sm-4 col-6 px-0" src="img/jobs/make-noiva.jpg" alt="Make noite.">
-        <img class="job-img col-xl-4 col-lg-4 col-md-4 col-sm-4 col-6 px-0" src="img/jobs/cabelo-laque.jpg" alt="Cabelo laque.">
+        <img class="job-img col-xl-4 col-lg-4 col-md-4 col-sm-4 col-6 px-0" src="img/jobs/cabelo-laque.jpg" alt="Penteado para noivas.">
         <img class="job-img col-xl-4 col-lg-4 col-md-4 col-sm-4 col-6 px-0" src="img/jobs/make-curso-expert-em-noivas.jpg" alt="Make curso expert em noivas.">
         <img class="job-img col-xl-4 col-lg-4 col-md-4 col-sm-4 col-6 px-0" src="img/jobs/make-glan.jpg" alt="Make glan.">
         <img class="job-img col-xl-4 col-lg-4 col-md-4 col-sm-4 col-6 px-0" src="img/jobs/micropgmentacao.jpg" alt="Micropgmentação.">

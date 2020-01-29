@@ -25,7 +25,7 @@
         <div class="row pt-2 mr-0">
             <img class="job-img col-xl-2 col-lg-2 col-md-4 col-sm-4 col-12 px-0" src="img/jobs/cursos-de-auto-maquiagem.jpg" alt="Cursos de auto maquiagem.">
             <img class="job-img col-xl-2 col-lg-2 col-md-4 col-sm-4 col-6 px-0" src="img/jobs/atendimento-exclusivo-durante-eventos-debutante-event-care.jpg" alt="Atendimento exclusivo durante eventos debutante event care.">
-            <img class="job-img col-xl-2 col-lg-2 col-md-4 col-sm-4 col-6 px-0" src="img/jobs/cabelo-laque.jpg" alt="Cabelo laque.">
+            <img class="job-img col-xl-2 col-lg-2 col-md-4 col-sm-4 col-6 px-0" src="img/jobs/cabelo-laque.jpg" alt="Penteado para noivas.">
             <img class="job-img col-xl-2 col-lg-2 col-md-4 col-sm-4 col-6 px-0" src="img/jobs/cursos-de-auto-maquiagem-pratica.jpg" alt="Cursos de auto maquiagem pratica.">
             <img class="job-img col-xl-2 col-lg-2 col-md-4 col-sm-4 col-6 px-0" src="img/jobs/cursos-de-postura-e-comportamento-profissional.jpg" alt="Cursos de postura e comportamento profissional.">
             <img class="job-img col-xl-2 col-lg-2 col-md-4 col-sm-4 col-6 px-0" src="img/jobs/cursos-profissionais.jpg" alt="Cursos profissionais.">
